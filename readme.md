@@ -6,7 +6,7 @@
 ## Contents
 
 - [Instance-based methods](#instance-based-methods)
-- [Longitudinal-based  methods](#longitudinal-based -methods)
+- [Longitudinal-based methods](#longitudinal-based-methods)
 - [Datasets](#datasets)
 
 
