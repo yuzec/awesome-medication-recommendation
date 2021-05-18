@@ -41,8 +41,8 @@
 
 > Datasets used in medication recommendation.
 
-- [MIMIC Critical Care Database](#https://mimic.physionet.org/)
-- [DrugBank](#https://www.drugbank.com/)
+- [MIMIC Critical Care Database](https://mimic.physionet.org/)
+- [DrugBank](https://www.drugbank.com/)
 
 
 ## Contribute
