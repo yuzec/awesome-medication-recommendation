@@ -9,6 +9,7 @@
 - [Longitudinal-based methods](#longitudinal-based-methods)
 - [Others](#others)
 - [Datasets](#datasets)
+- [Contribute](#contribute)
 
 
 ## Instance-based methods
@@ -22,10 +23,10 @@
 
 > Longitudinal-based  methods  leverage  the  temporal  dependencies  among  clinical  event.
 
-- Dual memory neural computer for asynchronous two-view sequential learning  [`KDD 2018`](https://dl.acm.org/doi/abs/10.1145/3219819.3219981) [`code`](https://github.com/thaihungle/DMNC)
-- GAMENet：Graph Augmented MEmory Networks for Recommending Medication Combination  [`AAAI 2019`](https://ojs.aaai.org/index.php/AAAI/article/view/3905) [`code`](https://github.com/sjy1203/GAMENet)
+- Dual memory neural computer for asynchronous two-view sequential learning [`scholar`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dual+memory+neural+computer+for+asynchronous+two-view+sequential+learning&btnG=)  [`KDD 2018`](https://dl.acm.org/doi/abs/10.1145/3219819.3219981) [`code`](https://github.com/thaihungle/DMNC)
+- GAMENet：Graph Augmented MEmory Networks for Recommending Medication Combination [`scholar`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GAMENet%EF%BC%9AGraph+Augmented+MEmory+Networks+for+Recommending+Medication+Combination&btnG=)  [`AAAI 2019`](https://ojs.aaai.org/index.php/AAAI/article/view/3905) [`code`](https://github.com/sjy1203/GAMENet)
 - Order-free Medicine Combination Prediction with Graph Convolutional Reinforcement Learning [`scholar`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Order-free+Medicine+Combination+Prediction+with+Graph+Convolutional+Reinforcement+Learning&btnG=) [`CIKM 2019`](https://dl.acm.org/doi/abs/10.1145/3357384.3357965) [`code`](https://github.com/WOW5678/CompNet)
-- PREMIER: Personalized REcommendation for Medical prescrIptions from Electronic Records  [`arXiv 2020`](https://arxiv.org/abs/2008.13569)
+- PREMIER: Personalized REcommendation for Medical prescrIptions from Electronic Records [`scholar`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PREMIER%3A+Personalized+REcommendation+for+Medical+prescrIptions+from+Electronic+Records&btnG=)  [`arXiv 2020`](https://arxiv.org/abs/2008.13569)
 - RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism [`scholar`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RETAIN%3A+An+Interpretable+Predictive+Model+for+Healthcare+using+Reverse+Time+Attention+Mechanism&btnG=) [`arXiv 2016`](https://arxiv.org/abs/1608.05745) [`code`](https://github.com/mp2893/retain)
 - Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation [`scholar`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Supervised+Reinforcement+Learning+with+Recurrent+Neural+Network+for+Dynamic+Treatment+Recommendation&btnG=) [`KDD 2018`](https://dl.acm.org/doi/abs/10.1145/3219819.3219961) [`code`](https://github.com/Joywanglulu/SRL_DTR)
 
@@ -41,8 +42,9 @@
 
 > Datasets used in medication recommendation.
 
-- [MIMIC Critical Care Database](https://mimic.physionet.org/)
-- [DrugBank](https://www.drugbank.com/)
+- [MIMIC Critical Care Database](https://mimic.physionet.org/) - Medical Information Mart for Intensive Care.
+- [DDI Data](https://www.dropbox.com/s/8os4pd2zmp2jemd/drug-DDI.csv?dl=0) - Drug-Drug Interaction Data.
+- [DrugBank](https://www.drugbank.com/) - A curated pharmaceutical knowledge base, with products commercially available for precision medicine, telehealth, and drug discovery.
 
 
 ## Contribute
